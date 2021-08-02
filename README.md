@@ -1,0 +1,5 @@
+- Hi, I’m @damien-pitman
+- I've been teaching mathematics for about 20 years and published articles in mathematical biology, discrete probability and mathematics education. More recently, I've become increasingly interested in in data science, especially machine learning, and I'm ready to change careers and work full-time as a data scientist.
+- I’m currently learning to implement hidden Markov models with Python.
+- I’m looking to collaborate on a hidden Markov model for true rates of COV-19 infections.
+- You can reach me at <damien.pitman@gmail.com>
